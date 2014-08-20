@@ -1,4 +1,4 @@
-cq-dam-image-extractor-bookmarklet
+Adobe CQ DAM (Digital Asset Manager) image extractor bookmarklet
 ==================================
 
-Bookmarklet for CQ authors to easily get the URL of an image stored in the CQ DAM
+Bookmarklet for CQ authors to easily get the URL of an image stored in a CQ DAM.
